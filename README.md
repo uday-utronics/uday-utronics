@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer and Technical Content W
 
 ## 📝 My Blog
 
-I love to write technical articles and tutorials on various programming topics. You can check out my blog [here](https://your-blog-url.com/) for some of my latest articles.
+I love to write technical articles and tutorials on various programming topics. You can check out my blog [here](https://utronics.hashnode.dev/) for some of my latest articles.
 
 ## 📬 Let's Connect
 
